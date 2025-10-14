@@ -1,2 +1,2 @@
 # fdprat
-yes. (rat.themoskau.xyz, domain teting stuff idk)
+the infamous fdp client rat
